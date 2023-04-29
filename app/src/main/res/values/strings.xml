@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">10120901Latihan2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repassword">Retype Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="facebook">CONNECT WITH FACEBOOK</string>
+    <string name="lregister">doesn\'t have account ? <b>Register</b></string>
+    <string name="hregister">Register</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="Blood">
+        <item>Blood Type</item>
+        <item>0</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="Reshus">
+        <item>Reshus</item>
+        <item>Positive</item>
+        <item>Negative</item>
+    </string-array>
+    <string-array name="job">
+        <item>Job</item>
+        <item>Doctor</item>
+        <item>Suster</item>
+    </string-array>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="address">Home Address</string>
+    <string name="location">Default Location</string>
+    <string name="agree">Agree with Terms and Conditions</string>
+    <string name="btnRegister">REGISTER</string>
+    <string name="verify">Verify Your Account</string>
+    <string name="verifyDesc">We have send verification code to your email</string>
+    <string name="verifyInput">enter verification code here...</string>
+    <string name="btnVerify">SEND</string>
+    <string name="verifyResend">doesn\'t get the code? <b>Resend</b></string>
+    <string name="almost_there">Almost There</string>
+    <string name="almostDesc">Thank you for registering with us, one more step,\n you need to check your email \n to activate your account</string>
+    <string name="name">Mustapha Hadzi</string>
+    <string name="blood_type">Blood Type: O</string>
+    <string name="number_100">100</string>
+    <string name="number_75">75</string>
+    <string name="number_330">33O</string>
+    <string name="blood_give">Blood Give</string>
+    <string name="search_donor_desc">Search Donor Near you</string>
+    <string name="blood_needed_desc">4 Users need blood</string>
+    <string name="message_desc">5 New Messages</string>
+    <string name="donor_history_desc">5 Gives, 2 Received</string>
+    <string name="blood_received">Blood Received</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="message">Message</string>
+    <string name="donor_history">Donor History</string>
+    <string name="thanks">Thanks</string>
+</resources>
